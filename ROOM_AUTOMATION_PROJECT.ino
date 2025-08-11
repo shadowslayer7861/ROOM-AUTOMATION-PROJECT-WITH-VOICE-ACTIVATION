@@ -1,6 +1,6 @@
 #define BLYNK_TEMPLATE_ID "TMPL3CM5ZS5Iz"
 #define BLYNK_TEMPLATE_NAME "smart home"
-#define BLYNK_AUTH_TOKEN "7qTMXbPTv5iq9TEB8xRydNf3hilz5NwN"
+#define BLYNK_AUTH_TOKEN "************"
 
 #include <DHT.h>
 #include <WiFi.h>
