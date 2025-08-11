@@ -2,7 +2,7 @@ import speech_recognition as sr
 import requests
 import pyttsx3
 
-BLYNK_TOKEN = "7qTMXbPTv5iq9TEB8xRydNf3hilz5NwN"
+BLYNK_TOKEN = "****************"
 base_url = f"https://blynk.cloud/external/api/update?token={BLYNK_TOKEN}"
 
 def speak(text):
@@ -65,3 +65,4 @@ def listen():
 if __name__ == "__main__":
     while True:
         listen()
+
